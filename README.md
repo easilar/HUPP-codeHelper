@@ -1,8 +1,11 @@
 # HUPP-codeHelper
-this repository contains some helper codes for HUPP Group.
-(Bu havuz HUPP grubu icin yardimci kod'lar icermektedir.)
+Bu havuz HUPP grubu icin yardimci kod'lar icermektedir.
+
+This repository contains some helper codes for HUPP Group.
 
 
-The material can be find here (discriptions, ROOT files..): http://easilar.web.cern.ch/easilar/pyroot.htm
-(Gerekli araclara (ROOT dosyasi gibi) verilen link'den ulasilabilir)
 
+
+Gerekli araclara (ROOT dosyasi gibi) buradan ulasilabilir:http://easilar.web.cern.ch/easilar/pyroot.htm
+
+The material can be find from the link above (discriptions, ROOT files..)
