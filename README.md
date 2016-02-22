@@ -4,5 +4,5 @@ this repository contains some helper codes for HUPP Group.
 
 
 The material can be find here (discriptions, ROOT files..): http://easilar.web.cern.ch/easilar/pyroot.htm
-(Gerekli araclara (ROOT dosyasi gibi) buradan ulasilabilir: http://easilar.web.cern.ch/easilar/pyroot.htm )
+(Gerekli araclara (ROOT dosyasi gibi) verilen link'den ulasilabilir)
 
