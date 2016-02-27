@@ -1,8 +1,8 @@
 import ROOT
-from makeNicePlot import DrawNicePlot
+from helper import DrawNicePlot
 import os,sys
 
-file = ROOT.TFile('HPQ.root')
+file = ROOT.TFile('rootfiles/HPQ.root')
 tree = file.Get('LHCO')
 
 ptCut = 15
