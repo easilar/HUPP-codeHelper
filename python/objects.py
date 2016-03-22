@@ -30,7 +30,7 @@ def getZ(eles):
   if len(eles)==2:
     for perm in [eles, reversed(eles)]:
       elep,elen = perm
-      if elep['charge'] >0:
+      if elep['charge'] == -elen['charge'] and elep['charge'] >0:
         e1.SetPtEtaPhiM(elen['pt'],elen['eta'],elen['phi'],0)
         e2.SetPtEtaPhiM(elep['pt'],elep['eta'],elep['phi'],0)
         Z = e1+e2
